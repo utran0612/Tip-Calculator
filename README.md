@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img href='https://tenor.com/bN2y2.gif' title='Code Path Prework' width='' alt='Code Path Prework Video' />
-<div class="tenor-gif-embed" data-postid="24280246" data-share-method="host" data-width="100%" data-aspect-ratio="0.4859437751004016"><a href="https://tenor.com/view/gif-24280246">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src=![]'https://tenor.com/bN2y2.gif' title='Code Path Prework' width='' alt='Code Path Prework Video' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
