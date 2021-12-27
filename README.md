@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/POEsbQ1' title='Code Path Prework' width='' alt='Code Path Prework Video' />
+<img src='https://tenor.com/bN2y2.gif' title='Code Path Prework' width='' alt='Code Path Prework Video' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
