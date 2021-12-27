@@ -27,16 +27,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/92RahBv' title='Code Path Prework' width='' alt='Code Path Prework Video' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-#Challenge while creating the program
-- It took me a lot of time to download Xcode (6-7 hours)
-- I created a wrong type of project (not iOS) at the beginning which brought a lot of confusion
-- Understand UIViewController, IBOutlet, IBAction
-- Sometimes it's hard to connect IBOutlets with the elements. Variable names have to be consistent and when I changed a name of an IBOutlet var I have to make sure that it is changed in other actions too; otherwise, the app will crash
+**Challenge while creating the program
+- It took me a lot of time to download Xcode (6-7 hours).
+- I created a wrong type of project (not iOS) at the beginning which brought a lot of confusion.
+- Understand UIViewController, IBOutlet, IBAction.
+- Sometimes it's hard to connect IBOutlets with the elements. Variable names have to be consistent and when I changed a name of an IBOutlet var I have to make sure that it is changed in other actions too; otherwise, the app will crash.
+- I want to make corner radius but haven't found a way to do it.
 
 ## License
 
